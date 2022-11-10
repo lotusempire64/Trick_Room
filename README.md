@@ -1,5 +1,5 @@
 ## Trick Room
-The Most Advanced Malware Ever Made!
+The Most Advanced Malware Ever Made! Work In Progress, Looking For People To Colab With
 
 ## Creators
 
