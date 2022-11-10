@@ -1,4 +1,4 @@
-# trick_room
+## Trick Room
 The Most Advanced Malware Ever Made!
 
 ## Creators
