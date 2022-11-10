@@ -15,8 +15,8 @@ The Most Advanced Malware Ever Made!
 git clone https://github.com/lotusempire64/Trick_Room 
 cd Trick_Room  
 ```
-## Warning! 
-Don't Run On Your Own Computer, Use Only For Educational Purposes As This Virus Has The Potential To Cause Severe Harm 
+## Warning/Disclaimor! 
+Don't Run On Your Own Computer, Use Only For Educational Purposes And Don't Be Dumb
 
 ## Usage 
 Step 1: Start a netcat listener: 
